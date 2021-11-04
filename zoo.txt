@@ -1,0 +1,6 @@
+visual encoding 
+stacked graph
+horizon graphs
+exploratory data analysis
+stem-and-Leaf Plots
+parallel Coordinates
